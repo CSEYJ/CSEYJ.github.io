@@ -8,11 +8,26 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 &nbsp;
 ## Education
-**Brown University, Providence, Rhode Island**  
+**Brown University,   Providence, Rhode Island**  
 *Sc.M in Computer Science, 2020-present*  
+**The Ohio State University,   Columbus, Ohio**  
+*B.S in Computer and Information, Cum Laude, 2016-2020*  
 &nbsp;
-**The Ohio State University, Columbus, Ohio**  
-*B.S in Computer and Information, 2016-2020*  
+&nbsp;
+## Research Experience
+**[System@Brown Group][system-group],   Providence, Rhode Island**  
+*Graduate research advised by Professor Professor Benson, 2020-present*  
+**The Ohio State University,   Columbus, Ohio**  
+*Undergraduate research supervised by Professor David Ogle, 2019-2020*  
+&nbsp;
+&nbsp;
+## Teaching Assistantship
+**CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
+*Student Instructional Assistant, The Ohio State University, Spring 2020*  
+**CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
+*Student Instructional Assistant, The Ohio State University, Fall 2019*  
+**CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
+*Student Instructional Assistant, The Ohio STate University, Spring 2019*  
 &nbsp;
 &nbsp;
 ## Current Project
@@ -22,12 +37,6 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 &nbsp;
 ## Past Project
-![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
-**Enabling Internet Access In Rural Areas**  
-*Supversior: Professor [David Ogle][david-ogle]*  
-&nbsp;
-&nbsp;
-## Skills
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
 **Enabling Internet Access In Rural Areas**  
 *Supversior: Professor [David Ogle][david-ogle]*  
