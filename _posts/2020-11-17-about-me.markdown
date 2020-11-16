@@ -27,7 +27,7 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Spring 2020*  
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
-*Student Instructional Assistant, The Ohio State University, Fall 2019*  
+*Student Instructional Assistant, The Ohio State University, Autumn 2019*  
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Spring 2019*  
 &nbsp;
