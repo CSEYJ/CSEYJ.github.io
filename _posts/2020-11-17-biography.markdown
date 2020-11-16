@@ -11,12 +11,12 @@ Sc.M in Computer Science at Brown University, 2020-present
 B.S in Computer and Information at The Ohio State University, 2016-2020
 
 ### Current Project
-![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
+![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)
 P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]  
 Advisor: Professor [Theophilus Benson][theophilus-benson]
 
 ### Past Project
-![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
+![DTN]({{site.baseurl}}/assets/img/dtn.jpg)
 Enabling Internet Access In Rural Areas  
 Supversior: Professor [David Ogle][david-ogle]  
 
