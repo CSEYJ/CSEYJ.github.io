@@ -14,7 +14,6 @@ ___
 **The Ohio State University,** *Columbus, Ohio*  
 *B.S in Computer and Information Science, Cum Laude, 2016-2020*  
 &nbsp;
-___
 &nbsp;
 ## Research Experience
 **[System@Brown Group][system-group],** *Providence, Rhode Island*  
@@ -24,7 +23,6 @@ ___
 *Undergraduate research supervised by Professor [David Ogle][david-ogle], 2019-2020*  
 *Topic: Delay-Tolerent Networking*  
 &nbsp;
-___
 &nbsp;
 ## Teaching Assistantship
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
@@ -34,14 +32,12 @@ ___
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Spring 2019*  
 &nbsp;
-___
 &nbsp;
 ## Current Project
 ![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
 **P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]**  
 *Advisor: Professor Theophilus Benson*  
 &nbsp;
-___
 &nbsp;
 ## Past Project
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
