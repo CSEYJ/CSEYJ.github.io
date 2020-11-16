@@ -15,10 +15,12 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 &nbsp;
 ## Research Experience
-**[System@Brown Group][system-group],   Providence, Rhode Island**  
-*Graduate research advised by Professor Professor Benson, 2020-present*  
-**The Ohio State University,   Columbus, Ohio**  
-*Undergraduate research supervised by Professor David Ogle, 2019-2020*  
+**[System@Brown Group][system-group],** *Providence, Rhode Island*  
+*Graduate research advised by Professor [Theophilus Benson][theophilus-benson], 2020-present*  
+*Topic: Programmable Data Plane*  
+**The Ohio State University,** *Columbus, Ohio*  
+*Undergraduate research supervised by Professor [David Ogle][david-ogle], 2019-2020*  
+*Topic: Delay-Tolerent Networking*  
 &nbsp;
 &nbsp;
 ## Teaching Assistantship
@@ -27,19 +29,19 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Fall 2019*  
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
-*Student Instructional Assistant, The Ohio STate University, Spring 2019*  
+*Student Instructional Assistant, The Ohio State University, Spring 2019*  
 &nbsp;
 &nbsp;
 ## Current Project
 ![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
 **P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]**  
-*Advisor: Professor [Theophilus Benson][theophilus-benson]*  
+*Advisor: Professor Theophilus Benson*  
 &nbsp;
 &nbsp;
 ## Past Project
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
 **Enabling Internet Access In Rural Areas**  
-*Supversior: Professor [David Ogle][david-ogle]*  
+*Supversior: Professor David Ogle*  
 
 [theophilus-benson]: https://cs.brown.edu/~tab/
 [david-ogle]: https://sites.google.com/site/daveogle/dave-s-homepage
