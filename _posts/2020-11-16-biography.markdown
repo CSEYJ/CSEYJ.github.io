@@ -18,7 +18,7 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 
 ### Past Project
 ## Enabling Internet Access In Rural Areas
-## Supversior: Professor David Ogle
+## Supversior: Professor [David Ogle][david-ogle]
 
 [theophilus-benson]: https://cs.brown.edu/~tab/
 [david-ogle]: https://sites.google.com/site/daveogle/dave-s-homepage
