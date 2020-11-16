@@ -5,19 +5,19 @@ title: "Yongjeong Kim"
 
 ### About Me
 I am a first-year Sc.M student in [System@Brown Group][system-group], advised by Professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
-  
+&nbsp;
 ### Education
-#### Sc.M in Computer Science at Brown University, 2020-present  
-#### B.S in Computer and Information at The Ohio State University, 2016-2020
-  
+##### Sc.M in Computer Science at Brown University, 2020-present  
+##### B.S in Computer and Information at The Ohio State University, 2016-2020
+&nbsp;
 ### Current Project
 ![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
-#### P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]  
+##### P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]  
 Advisor: Professor [Theophilus Benson][theophilus-benson]
-  
+&nbsp;
 ### Past Project
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
-#### Enabling Internet Access In Rural Areas  
+##### Enabling Internet Access In Rural Areas  
 Supversior: Professor [David Ogle][david-ogle]  
 
 [theophilus-benson]: https://cs.brown.edu/~tab/
