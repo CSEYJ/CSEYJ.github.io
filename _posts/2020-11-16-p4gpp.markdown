@@ -3,8 +3,8 @@ layout: post
 title: "P4GPP"
 description: "P4GPP: A GPU-Accelerated P4 Packet Processing"
 ongoing: true
-img: {{site.baseurl}}/assets/img/p4gpp.jpg
-main_image: {{site.baseurl}}/assets/img/p4gpp.jpg
+img: p4gpp.jpg
+main_image: p4gpp.jpg
 people: [ykim]
 ---
 
