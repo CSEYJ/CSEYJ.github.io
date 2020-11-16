@@ -13,13 +13,12 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Current Project
 ![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
 **P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]**  
-Advisor: Professor [Theophilus Benson][theophilus-benson]
-&nbsp;
+*Advisor: Professor [Theophilus Benson][theophilus-benson]*
 &nbsp;
 ## Past Project
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
 **Enabling Internet Access In Rural Areas**  
-Supversior: Professor [David Ogle][david-ogle]  
+*Supversior: Professor [David Ogle][david-ogle]*  
 
 [theophilus-benson]: https://cs.brown.edu/~tab/
 [david-ogle]: https://sites.google.com/site/daveogle/dave-s-homepage
