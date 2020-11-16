@@ -2,11 +2,10 @@
 layout: post
 title: "Yongjeong Kim"
 ---
-
+&nbsp;
 ## About Me
 I am a first-year Sc.M student in [System@Brown Group][system-group], advised by Professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
 &nbsp;
-___
 &nbsp;
 ## Education
 **Brown University,** *Providence, Rhode Island*  
