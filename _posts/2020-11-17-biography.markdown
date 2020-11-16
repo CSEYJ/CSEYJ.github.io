@@ -16,6 +16,7 @@ P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]
 Advisor: Professor [Theophilus Benson][theophilus-benson]
 
 ### Past Project
+![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
 Enabling Internet Access In Rural Areas  
 Supversior: Professor [David Ogle][david-ogle]  
 
