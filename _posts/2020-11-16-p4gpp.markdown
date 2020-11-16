@@ -1,7 +1,7 @@
 ---
 layout: post
-title: P4GPP
-description: P4GPP: A GPU-Accelerated P4 Packet Processing
+title: "P4GPP"
+description: "P4GPP: A GPU-Accelerated P4 Packet Processing"
 ongoing: true
 img: /assets/img/p4gpp.jpg
 main_image: /assets/img/p4gpp.jpg
