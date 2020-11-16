@@ -8,8 +8,11 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 &nbsp;
 ## Education
-**Sc.M in Computer Science at Brown University, 2020-present**  
-**B.S in Computer and Information at The Ohio State University, 2016-2020**  
+**Brown University, Providence, Rhode Island**  
+*Sc.M in Computer Science, 2020-present*  
+&nbsp;
+**The Ohio State University, Columbus, Ohio**  
+*B.S in Computer and Information, 2016-2020*  
 &nbsp;
 &nbsp;
 ## Current Project
@@ -19,6 +22,12 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 &nbsp;
 ## Past Project
+![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
+**Enabling Internet Access In Rural Areas**  
+*Supversior: Professor [David Ogle][david-ogle]*  
+&nbsp;
+&nbsp;
+## Skills
 ![DTN]({{site.baseurl}}/assets/img/dtn.jpg)  
 **Enabling Internet Access In Rural Areas**  
 *Supversior: Professor [David Ogle][david-ogle]*  
