@@ -32,6 +32,20 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 *Student Instructional Assistant, The Ohio State University, Spring 2019*  
 &nbsp;
 &nbsp;
+## Skills
+**Languages**  
+C, C#, Java, JavaScript, Python, P4, Ruby, Scheme, x86 assembly language 
+**Web Developent**
+HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL
+**Networking Tools**  
+wireshark, tcpdump, tethereal, mininet  
+**Others**  
+CUDA Programming, Shell scripting, Unity animation development, Android application development, Salseforce  
+**Selected Courseworks**  
+Network Security, Network Programming, Multicasting, Wireless Networking, Web Application Development, Artificial Intelligence, Compiler Development  
+
+&nbsp;
+&nbsp;
 ## Current Project
 ![P4GPP]({{site.baseurl}}/assets/img/p4gpp.jpg)  
 **P4GPP: A GPU-Accelerated P4 Packet Processing [[link]][p4gpp]**  
