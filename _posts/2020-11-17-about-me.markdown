@@ -41,7 +41,7 @@ HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL
 wireshark, tcpdump, tethereal, mininet  
 **Others**  
 CUDA Programming, Shell scripting, Unity animation development, Android application development, Salseforce  
-**Selected Courseworks**  
+**Selected Courseworks And Projects**  
 Network Security, Network Programming, Network Function Offloading, Programmable Data Plane, Multicasting, Wireless Networking, Web Application Development, Artificial Intelligence, Compiler Development  
 
 &nbsp;
