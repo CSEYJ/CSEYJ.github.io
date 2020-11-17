@@ -34,9 +34,9 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 ## Skills
 **Languages**  
-C, C#, Java, JavaScript, Python, P4, Ruby, Scheme, x86 assembly language 
-**Web Developent**
-HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL
+C, C#, Java, JavaScript, Python, P4, Ruby, Scheme, x86 assembly language  
+**Web Developent**  
+HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL  
 **Networking Tools**  
 wireshark, tcpdump, tethereal, mininet  
 **Others**  
