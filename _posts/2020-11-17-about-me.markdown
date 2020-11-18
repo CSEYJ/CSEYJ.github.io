@@ -4,7 +4,7 @@ title: "Yongjeong Kim"
 ---
 &nbsp;
 ## About Me
-I am a first-year Sc.M student in [System@Brown Group][system-group], advised by Professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
+I am a first-year Sc.M student in [System@Brown Group][system-group], advised by professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
 &nbsp;
 &nbsp;
 ## Education
@@ -16,11 +16,11 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;
 ## Research Experience
 **[System@Brown Group][system-group],** *Providence, Rhode Island*  
-*Graduate research advised by Professor [Theophilus Benson][theophilus-benson], 2020-present*  
+*Graduate research advised by professor [Theophilus Benson][theophilus-benson], 2020-present*  
 *Topic: Programmable Data Plane*  
 **The Ohio State University,** *Columbus, Ohio*  
-*Undergraduate research supervised by Professor [David Ogle][david-ogle], 2019-2020*  
-*Topic: Delay-Tolerent Networking*  
+*Undergraduate research supervised by professor [David Ogle][david-ogle], 2019-2020*  
+*Topic: Delay-Tolerant Networking*  
 &nbsp;
 &nbsp;
 ## Teaching Assistantship
