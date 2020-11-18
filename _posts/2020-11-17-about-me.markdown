@@ -35,13 +35,13 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Skills
 **Languages**  
 C, C#, Java, JavaScript, Python, P4, Ruby, Scheme, x86 assembly language  
-**Web Developent**  
+**Web Developement**  
 HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL  
 **Networking Tools**  
 wireshark, tcpdump, tethereal, mininet  
 **Others**  
 CUDA Programming, Shell scripting, Unity animation development, Android application development, Salseforce  
-**Selected Courseworks And Projects**  
+**Selected Coursework And Projects**  
 Network Security, Network Programming, Network Function Offloading, Programmable Data Plane, Multicasting, Wireless Networking, Web Application Development, Artificial Intelligence, Compiler Development  
 
 &nbsp;
