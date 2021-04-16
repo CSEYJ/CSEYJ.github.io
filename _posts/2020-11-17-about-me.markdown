@@ -10,17 +10,20 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Education
 **Brown University,** *Providence, Rhode Island*  
 *Sc.M in Computer Science, 2020-present*  
+&nbsp;  
 **The Ohio State University,** *Columbus, Ohio*  
 *B.S in Computer and Information Science, Cum Laude, 2016-2020*  
 &nbsp;
 &nbsp;
 ## Research Experience
-**IBM Research,** *Yorktown Heights, New York*  
-*Graduate Research Intern (Incoming), 2021-2021*  
+**IBM Research,** *IBM T. J. Watson Research Center*  
+*Graduate Research Intern, 2021-2021*  
 *Cloud Infrastructure Research Group*  
+&nbsp;  
 **[System@Brown Group][system-group],** *Providence, Rhode Island*  
 *Graduate research advised by professor [Theophilus Benson][theophilus-benson], 2020-present*  
 *Topic: Programmable Data Plane*  
+&nbsp;  
 **The Ohio State University,** *Columbus, Ohio*  
 *Undergraduate research supervised by professor [David Ogle][david-ogle], 2019-2020*  
 *Topic: Delay-Tolerant Networking*  
@@ -29,8 +32,10 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Teaching Assistantship
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Spring 2020*  
+&nbsp;  
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Autumn 2019*  
+&nbsp;  
 **CSE 2421 - System I: Introduction to Low-Level Programming and Computer Organization**  
 *Student Instructional Assistant, The Ohio State University, Spring 2019*  
 &nbsp;
@@ -38,12 +43,16 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Skills
 **Languages**  
 C, C#, Java, JavaScript, Python, P4, Ruby, Scheme, x86 assembly language  
+&nbsp;  
 **Web Developement**  
 HTML, CSS, Node.js, Ruby on Rails, MongoDB, MySQL  
+&nbsp;  
 **Networking Tools**  
 wireshark, tcpdump, tethereal, mininet  
+&nbsp;  
 **Others**  
 CUDA Programming, Shell scripting, Unity animation development, Android application development, Salesforce  
+&nbsp;  
 **Selected Coursework And Projects**  
 Network Security, Network Programming, Network Function Offloading, Programmable Data Plane, Multicasting, Wireless Networking, Web Application Development, Artificial Intelligence, Compiler Development  
 
