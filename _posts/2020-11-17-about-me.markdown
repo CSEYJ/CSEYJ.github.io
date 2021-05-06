@@ -10,9 +10,12 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 ## Education
 **Brown University,** *Providence, Rhode Island*  
 *Sc.M in Computer Science, 2020-present*  
+Thesis: Exploring GPU As P4 Packet Processing Accelerator  
+GPA: 4.0/4.0  
 &nbsp;  
 **The Ohio State University,** *Columbus, Ohio*  
-*B.S in Computer and Information Science, Cum Laude, 2016-2020*  
+*B.S in Computer and Information Science, 2016-2020*  
+Cum Laude
 &nbsp;
 &nbsp;
 ## Research Experience
@@ -26,7 +29,7 @@ I am a first-year Sc.M student in [System@Brown Group][system-group], advised by
 &nbsp;  
 **The Ohio State University,** *Columbus, Ohio*  
 *Undergraduate research supervised by professor [David Ogle][david-ogle], 2019-2020*  
-*Topic: Delay-Tolerant Networking*  
+*Topic: Delay-Tolerant Networking In Rural Areas*  
 &nbsp;
 &nbsp;
 ## Teaching Assistantship
