@@ -4,12 +4,12 @@ title: "Yongjeong Kim"
 ---
 &nbsp;
 ## About Me
-I am a first-year Sc.M student in [System@Brown Group][system-group], advised by professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
+I am a second-year Sc.M student in [System@Brown Group][system-group], advised by professor [Theophilus Benson][theophilus-benson]. My primary research interests include software-defined networking, distributed systems, and programmable data planes. My current research focuses on exploring heterogeneous architectures to accelerate packet processing for P4 programs.  
 &nbsp;
 &nbsp;
 ## Education
 **Brown University,** *Providence, Rhode Island*  
-*Sc.M in Computer Science, 2020-present*  
+*Sc.M in Computer Science, 2020-2022 (expected)*  
 Thesis: Exploring GPU As P4 Packet Processing Accelerator  
 GPA: 4.0/4.0  
 &nbsp;  
